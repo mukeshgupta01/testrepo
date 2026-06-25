@@ -1,1 +1,1 @@
-select * from {{source('landing','transactions')}}
+select * from {{source('landing','report')}}

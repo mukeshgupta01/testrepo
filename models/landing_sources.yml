@@ -1,6 +1,9 @@
+version: 2
+
 sources:
   - name: landing
     database: furo
-    schema: dbt_mgupta
-    table:
-      -name: transactions
+    schema: landing
+    tables:
+      
+      - name: report
