@@ -1,0 +1,1 @@
+select * from furo.landing_page.report
