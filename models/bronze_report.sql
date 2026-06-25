@@ -1,1 +1,1 @@
-select * from furo.landing_page.report
+select * from {{source('landing','transactions')}}

@@ -1,0 +1,6 @@
+sources:
+  - name: landing
+    database: furo
+    schema: dbt_mgupta
+    table:
+      -name: transactions
